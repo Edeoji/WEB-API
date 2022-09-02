@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebAPIApplication/WebAPIApplication/obj
+*.v2
+/WebAPIApplication/.vs/WebAPIApplication/v15/.suo
+*.suo
+/.vs
